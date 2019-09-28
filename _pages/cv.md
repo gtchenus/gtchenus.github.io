@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Security, Beijing University of Technology, 2013-2017
+* M.S. in Computer Science, Boston University, 2018-Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2019: Research Assistant
+  * Boston University MiDAS Group @ BU
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Subhadeep Sarkar, Manos Athanassoulis
 
 * Fall 2015: Research Assistant
   * Github University
