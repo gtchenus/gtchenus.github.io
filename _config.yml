@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guanting"
+  name             : "Guanting Chen"
   avatar           : "profile.png"
   bio              : "MSc Researcher at MiDAS Group @ BU, A life-long learner"
   location         : "Boston, MA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "gtchenus(at)gmail(dot)com
+  email            : "gtchenus(at)gmail(dot)com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
