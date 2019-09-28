@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guanting Chen"
 title_separator          : "-"
 name                     : &name "Guanting Chen"
-description              : &description "A life-long learner   MSc Researcher at MiDAS Group @ BU "
+description              : &description "A life-long learner,    MSc Researcher at MiDAS Group @ BU "
 url                      : https://gtchenus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gtchenus.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guanting Chen"
   avatar           : "profile.jpeg"
-  bio              : "A life-long learner   MSc Researcher at MiDAS Group @ BU"
+  bio              : "A life-long learner,    MSc Researcher at MiDAS Group @ BU"
   location         : "Boston, MA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
