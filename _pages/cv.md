@@ -18,16 +18,16 @@ Work experience
 ======
 * Summer 2019: Research Assistant
   * Boston University MiDAS Group @ BU
-  * Duties included: Researching on modern NoSQL kv data systems and LSM tree.
+  * Researching on modern NoSQL kv data systems and LSM tree.
   * Supervisor: Subhadeep Sarkar, Manos Athanassoulis
   
 * 2017 - 2018: Technical Support Engineer
   * Tingyun (Beijing Networkbench Systems Corporation)
-  * Duties included: full-stack application monitoring and performance analysis
+  * Full-stack application monitoring and performance analysis
   
 * Summer 2016: Software Engineer Intern
   * Beijing Anbi Electronic Technology Ltd
-  * Duties included: Web backend development in Django
+  * Web backend development in Django
   
 Skills
 ======
