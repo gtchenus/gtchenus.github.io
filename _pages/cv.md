@@ -21,11 +21,11 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Subhadeep Sarkar, Manos Athanassoulis
   
-* Fall 2015: Technical Support Engineer
+* Dec.2016 - Jul.2017: Technical Support Engineer
   * Tingyun (Beijing Networkbench Systems Corporation)
   * Duties included: full-stack application monitoring and performance analysis
   
-* Fall 2015: Software Engineer Intern
+* Summer 2016: Software Engineer Intern
   * Beijing Anbi Electronic Technology Ltd
   * Duties included: Web backend development in Django
   
@@ -33,7 +33,7 @@ Skills
 ======
 * Programming Skils
   * C++/Java/Golang/Python/SQL
-  * Html5/Css3/Javascript
+  * HTML5/CSS3/JavaScript
   * Multithreads and socket programming
 * Frameworks
   * DBMS and NoSQL data systems
@@ -64,4 +64,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteered in China Internet Security Conference, Summer 2016
+* 2016 National University Cybersecurity Association (X-NUCA 2016), Summer 2016
+* The Finals of National College Student Skiing Competition, March 2016
