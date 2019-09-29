@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2019: Research Assistant
   * Boston University MiDAS Group @ BU
-  * Duties included: Tagging issues
+  * Duties included: Researching on modern NoSQL kv data systems and LSM tree.
   * Supervisor: Subhadeep Sarkar, Manos Athanassoulis
   
 * Dec.2016 - Jul.2017: Technical Support Engineer
