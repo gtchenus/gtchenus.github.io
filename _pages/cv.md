@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 Education
 ======
@@ -21,7 +21,7 @@ Work experience
   * Duties included: Researching on modern NoSQL kv data systems and LSM tree.
   * Supervisor: Subhadeep Sarkar, Manos Athanassoulis
   
-* Dec.2016 - Jul.2017: Technical Support Engineer
+* 2017 - 2018: Technical Support Engineer
   * Tingyun (Beijing Networkbench Systems Corporation)
   * Duties included: full-stack application monitoring and performance analysis
   
