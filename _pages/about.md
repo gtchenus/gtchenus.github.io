@@ -16,6 +16,6 @@ Before starting my journey at BU, I had some industry experience at local techno
 
 Beyond the field of computer science, i'm passionate about learning new things in life. I love skiing, basketball(huge fan of Leborn James), music, dogs, and bagels!
 
-Here is a online version of my [CV](https://gtchenus.github.io/cv/).
+You can find a online version of my CV [Here](https://gtchenus.github.io/cv/).
 
 
