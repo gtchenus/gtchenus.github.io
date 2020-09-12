@@ -9,12 +9,11 @@ redirect_from:
 ---
 
 # Welcome!
-I'm currently a second-year master student in the [Department of Computer Science](https://www.bu.edu/cs/) at [Boston University](http://www.bu.edu/). I'm also glad to be a member of [MiDAS](https://midas.bu.edu/) working with [Subhadeep Sarkar](https://subhadeepsarkar.bitbucket.io/), advised by [Manos Athanassoulis](http://cs-people.bu.edu/mathan/). I found my research interests related to data structures in the area of data systems, including efficient access methods and storage management for heterogeneous workloads. 
-For now, i'm researching on different compaction policies of [Log-structured merge-tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree) on modern NoSQL key/value data systems.
+I'm a first-year Ph.D. student studying Computer Science at the [The Northeastern University Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). At the same time, I'm a member of the [DATA Lab](https://db.khoury.northeastern.edu/), working with [Mirek Riedewal](https://www.khoury.northeastern.edu/people/mirek-riedewald/), [Renée Miller](https://www.khoury.northeastern.edu/people/renee-miller/), and [Wolfgang Gatterbauer](https://gatterbauer.name/). My research interests lie in databases and distributed computing, with an emphasis on scalable data management for data lakes.
 
-Before starting my journey at BU, I had some industry experience at local technology companies in Beijing and I recevied my B.Eng. degree on Information Security at [Beijing University of Technology](http://www.bjut.edu.cn), China. 
+Before starting my journey at Northeastern, I obtained my M.Sc. in Computer Science at [Boston University](https://www.bu.edu/) and B.Eng. in Information Security at [Beijing University of Technology](http://www.bjut.edu.cn), China. 
 
-Beyond the field of computer science, i'm passionate about learning new things in life. I love skiing, basketball(huge fan of Leborn James), music, dogs, and bagels!
+Apart from computer science, I'm passionate about outdoor activities. I love alpine skiing, basketball(huge fan of Lebron), mountain biking, dogs, and bagels!
 
 You can see my CV [here](https://gtchenus.github.io/files/CV-Guanting_Chen.pdf).
 
